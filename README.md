@@ -14,4 +14,4 @@ The Conference folder contains conference papers produced relating to the resear
 
 The Additional Materials folder contains information sheets, media files and photos.
 
-To contribute to this repository create an issue or comment under an existing issue then begin work.
+To contribute to this repository create an issue or comment under an existing issue then begin work once an issue is assigned to you.
